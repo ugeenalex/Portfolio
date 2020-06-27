@@ -284,13 +284,16 @@ a:hover{
 
 @media only screen and (max-width: 750px) {
     .kv_00{
-        height: 250px;
+        height: 300px;
     }
     .header_image{
         display: none;
     }
     .header_text{
-        width: 80%;
+        left: 24px;
+        top: 24px;
+        right: 24px;
+        bottom: 24px;
     }
     .card{
         width: 100%;
